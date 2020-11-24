@@ -1,4 +1,4 @@
-# writingsonthewall
+# Shopping-List
 
 > A Vue.js project
 
